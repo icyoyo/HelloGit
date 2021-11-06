@@ -7,5 +7,6 @@ public class Hello {
 		System.out.println("Hello Git");
 		System.out.println("添加更新1");
 		System.out.println("添加更新2");
+		System.out.println("添加更新3");
 	}
 }
