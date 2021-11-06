@@ -8,5 +8,6 @@ public class Hello {
 		System.out.println("添加更新1");
 		System.out.println("添加更新2");
 		System.out.println("添加更新3");
+		System.out.println("创建分支");
 	}
 }
